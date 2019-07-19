@@ -3,7 +3,7 @@ var inquirer = require("inquirer");
 var Word = require("./Word.js");
 var figlet = require('figlet');
 var chalk = require('chalk');
-var inquirer = require("inquirer");
+var inquirer = require("inquirer");ls
 
 var Word = require("./Word.js");
 var figlet = require('figlet');
